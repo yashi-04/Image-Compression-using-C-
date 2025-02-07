@@ -30,5 +30,5 @@ Follow the official OpenCV installation guide for your operating system:
 ### 2. Clone the Repository
 If you have the code in a repository, clone it:
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/yashi-04/Image-Compression-using-OpenCV.git
 cd your-repo
